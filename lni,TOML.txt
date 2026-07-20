@@ -1,0 +1,4 @@
+[kis]
+APP_KEY = "PSMASpQKNi6pFrOKWAksNJafC0Iree9GWA4s"
+APP_SECRET = "zgJPXDmrSO6OltPRNE5kdTgouqDX1waPfmkn4e98XK6OcSsx/XUQnrjGqjTPy6sqcO58pgdAw3qbOZK+xg9DF0eS4bh0vPBeU1Qu3SgsueBmGUJ/Ulwq3G95cnqgBgz8vvzj9315TFwYjuwxamLfz6W+ikNdmIe3OkOtg2XDvq+RjZZlBKc="
+IS_MOCK = true
